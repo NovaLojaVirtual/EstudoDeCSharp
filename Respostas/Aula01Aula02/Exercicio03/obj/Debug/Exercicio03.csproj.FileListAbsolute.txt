@@ -1,0 +1,7 @@
+C:\X\KK\EstudoDeCSharp\Respostas\Aula01Aula02\Exercicio03\bin\Debug\Exercicio03.exe.config
+C:\X\KK\EstudoDeCSharp\Respostas\Aula01Aula02\Exercicio03\bin\Debug\Exercicio03.exe
+C:\X\KK\EstudoDeCSharp\Respostas\Aula01Aula02\Exercicio03\bin\Debug\Exercicio03.pdb
+C:\X\KK\EstudoDeCSharp\Respostas\Aula01Aula02\Exercicio03\obj\Debug\Exercicio03.csprojAssemblyReference.cache
+C:\X\KK\EstudoDeCSharp\Respostas\Aula01Aula02\Exercicio03\obj\Debug\Exercicio03.csproj.CoreCompileInputs.cache
+C:\X\KK\EstudoDeCSharp\Respostas\Aula01Aula02\Exercicio03\obj\Debug\Exercicio03.exe
+C:\X\KK\EstudoDeCSharp\Respostas\Aula01Aula02\Exercicio03\obj\Debug\Exercicio03.pdb

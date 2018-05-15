@@ -1,0 +1,6 @@
+C:\X\KK\EstudoDeCSharp\Respostas\Aula01Aula02\Exercicio04\bin\Debug\Exercicio04.exe.config
+C:\X\KK\EstudoDeCSharp\Respostas\Aula01Aula02\Exercicio04\bin\Debug\Exercicio04.exe
+C:\X\KK\EstudoDeCSharp\Respostas\Aula01Aula02\Exercicio04\bin\Debug\Exercicio04.pdb
+C:\X\KK\EstudoDeCSharp\Respostas\Aula01Aula02\Exercicio04\obj\Debug\Exercicio04.csproj.CoreCompileInputs.cache
+C:\X\KK\EstudoDeCSharp\Respostas\Aula01Aula02\Exercicio04\obj\Debug\Exercicio04.exe
+C:\X\KK\EstudoDeCSharp\Respostas\Aula01Aula02\Exercicio04\obj\Debug\Exercicio04.pdb

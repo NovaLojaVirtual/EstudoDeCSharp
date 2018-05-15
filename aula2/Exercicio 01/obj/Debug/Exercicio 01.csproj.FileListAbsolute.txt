@@ -5,3 +5,9 @@ C:\Users\Tatiana\source\repos\EstudoDeCSharp\aula2\Exercicio 01\obj\Debug\Exerci
 C:\Users\Tatiana\source\repos\EstudoDeCSharp\aula2\Exercicio 01\obj\Debug\Exercicio 01.csproj.CoreCompileInputs.cache
 C:\Users\Tatiana\source\repos\EstudoDeCSharp\aula2\Exercicio 01\obj\Debug\Exercicio 01.exe
 C:\Users\Tatiana\source\repos\EstudoDeCSharp\aula2\Exercicio 01\obj\Debug\Exercicio 01.pdb
+C:\X\KK\EstudoDeCSharp\aula2\Exercicio 01\bin\Debug\Exercicio 01.exe.config
+C:\X\KK\EstudoDeCSharp\aula2\Exercicio 01\bin\Debug\Exercicio 01.exe
+C:\X\KK\EstudoDeCSharp\aula2\Exercicio 01\bin\Debug\Exercicio 01.pdb
+C:\X\KK\EstudoDeCSharp\aula2\Exercicio 01\obj\Debug\Exercicio 01.csproj.CoreCompileInputs.cache
+C:\X\KK\EstudoDeCSharp\aula2\Exercicio 01\obj\Debug\Exercicio 01.exe
+C:\X\KK\EstudoDeCSharp\aula2\Exercicio 01\obj\Debug\Exercicio 01.pdb
